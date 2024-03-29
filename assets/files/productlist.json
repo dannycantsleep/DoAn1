@@ -1,0 +1,420 @@
+{
+    "data":
+    [    
+        {
+            "id": 1,
+            "name": "Mousse Gấu Chocolate",
+            "price": 21000,
+            "img": "banhhinhgau.png",
+            "des": "",
+            "catId": 1      
+        },
+        {
+            "id": 2,
+            "name": "Khô Gà Lá Chanh",
+            "price": 21000,
+            "img": "khoga.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 3,
+            "name": "Mít Sấy Khô Giòn",
+            "price": 21000,
+            "img": "mitsay.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 4,
+            "name": "Bánh Mochi Choco",
+            "price": 21000,
+            "img": "mochichoco.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 5,
+            "name": "Bánh Mochi Dừa",
+            "price": 21000,
+            "img": "mochidua.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 6,
+            "name": "Bánh Mochi Phúc Bồn Tử",
+            "price": 21000,
+            "img": "mochiphucbontu.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 7,
+            "name": "Bánh Mochi Trà Xanh",
+            "price": 21000,
+            "img": "mochitraxanh.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 8,
+            "name": "Bánh Mochi Việt Quất",
+            "price": 21000,
+            "img": "mochivietquat.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 9,
+            "name": "Bánh Mochi Xoài",
+            "price": 21000,
+            "img": "mochixoai.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 10,
+            "name": "Bánh Tiramisu",
+            "price": 21000,
+            "img": "tiramisu.png",
+            "des": "",
+            "catId": 1 
+        },
+        {
+            "id": 11,
+            "name": "Armericano Nóng",
+            "price": 21000,
+            "img": "armenong.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 12,
+            "name": "Cappuccino",
+            "price": 21000,
+            "img": "cappuchino.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 13,
+            "name": "Cappuccino Đá",
+            "price": 21000,
+            "img": "cappuchinoda.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 14,
+            "name": "Caramel Macchiato Nóng",
+            "price": 21000,
+            "img": "caramelmacchiatonong.png",
+            "des": "",
+            "catId": 2 
+        },   {
+            "id": 15,
+            "name": "Caramel Macchiato",
+            "price": 21000,
+            "img": "caramelmachiato.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 16,
+            "name": "Cafe Đen Đá",
+            "price": 21000,
+            "img": "cfdenda.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 17,
+            "name": "Class Cold Brew",
+            "price": 21000,
+            "img": "classcoldbrew.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 18,
+            "name": "Espresso Nóng",
+            "price": 21000,
+            "img": "expressonong.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 19,
+            "name": "Latte Đá",
+            "price": 21000,
+            "img": "latteda.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 20,
+            "name": "Latte Nóng",
+            "price": 21000,
+            "img": "lattenong.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 21,
+            "name": "Trà Latte",
+            "price": 21000,
+            "img": "tralatte.png",
+            "des": "",
+            "catId": 2 
+        },
+        {
+            "id": 22,
+            "name": "Bạc Sỉu",
+            "price": 21000,
+            "img": "bacsiu.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 23,
+            "name": "Bạc Sỉu Đá",
+            "price": 21000,
+            "img": "bacsiuda.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 24,
+            "name": "Cà Phê Truyền Thống",
+            "price": 21000,
+            "img": "cafe.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 25,
+            "name": "Cà Phê Đen",
+            "price": 21000,
+            "img": "cafeden.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 26,
+            "name": "Cà Phê Đen Nóng",
+            "price": 21000,
+            "img": "cafedennong.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 27,
+            "name": "Cà Phê Sữa Đá",
+            "price": 21000,
+            "img": "cafesuada.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 28,
+            "name": "Cà Phê Sữa Đá Chai",
+            "price": 21000,
+            "img": "cafesuadachai.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 29,
+            "name": "Cà Phê Sữa Nóng",
+            "price": 21000,
+            "img": "cafesuanong.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 30,
+            "name": "Cà Phê Đen Đá",
+            "price": 21000,
+            "img": "cfden.png",
+            "des": "",
+            "catId": 3
+        },
+        {
+            "id": 31,
+            "name": "Chocolate Đá",
+            "price": 21000,
+            "img": "chocoda.png",
+            "des": "",
+            "catId": 4
+        },
+        {
+            "id": 32,
+            "name": "Chocolate Nóng",
+            "price": 21000,
+            "img": "choconong.png",
+            "des": "",
+            "catId": 4
+        },
+        {
+            "id": 33,
+            "name": "Hồng Trà Sữa Nóng",
+            "price": 21000,
+            "img": "hongtrasuanong.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 34,
+            "name": "Hồng Trà Sữa Trân Châu",
+            "price": 21000,
+            "img": "hongtrasuatranchau.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 35,
+            "name": "Trà Sữa Olong Nướng Nóng",
+            "price": 21000,
+            "img": "olongnuongnong.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 36,
+            "name": "Trà Sữa Sương Sáo",
+            "price": 21000,
+            "img": "suongsao.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 37,
+            "name": "Trà Đen Macca",
+            "price": 21000,
+            "img": "tradenmacca.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 38,
+            "name": "Trà Đen Macchiato",
+            "price": 21000,
+            "img": "tradenmachiatto.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 39,
+            "name": "Trà Sữa Olong",
+            "price": 21000,
+            "img": "trasuaolong.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 40,
+            "name": "Trà Sữa Oolong Chai",
+            "price": 21000,
+            "img": "trasuaolongchai.png",
+            "des": "",
+            "catId": 5
+        },
+        {
+            "id": 41,
+            "name": "Trà Đào Cam Sả",
+            "price": 21000,
+            "img": "tradaocamsa.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 42,
+            "name": "Trà Đào Cam Sả Nóng",
+            "price": 21000,
+            "img": "tradaocamsanong.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 43,
+            "name": "Trà Đào Chai",
+            "price": 21000,
+            "img": "tradaochai.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 44,
+            "name": "Trà Kim Quất Xuân",
+            "price": 21000,
+            "img": "trakimquatxuan.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 45,
+            "name": "Trà Sen",
+            "price": 21000,
+            "img": "trasen.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 46,
+            "name": "Trà Sen Nhãn",
+            "price": 21000,
+            "img": "trasennhan.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 47,
+            "name": "Trà Sen Nóng",
+            "price": 21000,
+            "img": "trasennong.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 48,
+            "name": "Trà Vải Xuân",
+            "price": 21000,
+            "img": "travaixuan.png",
+            "des": "",
+            "catId": 6
+        },
+        {
+            "id": 49,
+            "name": "Trà Xanh Đường Đen",
+            "price": 21000,
+            "img": "traxanhduongden.png",
+            "des": "",
+            "catId": 7
+        },
+        {
+            "id": 50,
+            "name": "Trà Xanh Frosty",
+            "price": 21000,
+            "img": "traxanhfrosty.png",
+            "des": "",
+            "catId": 7
+        },
+        {
+            "id": 51,
+            "name": "Trà Xanh Latte",
+            "price": 21000,
+            "img": "traxanhlatte.png",
+            "des": "",
+            "catId": 7
+        },
+        {
+            "id": 52,
+            "name": "Trà Xanh Latte Nóng",
+            "price": 21000,
+            "img": "traxanhlattenong.png",
+            "des": "",
+            "catId": 7
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Bánh Ngọt & Snack"
+        },
+        {
+            "id":2,
+            "name":"Cafe Máy"
+        },
+        {
+            "id":3,
+            "name":"Cafe Việt Nam"
+        },
+        {
+            "id":4,
+            "name":"Chocolate"
+        },
+        {
+            "id":5,
+            "name":"Trà Sữa Macchiato"
+        },
+        {
+            "id":6,
+            "name":"Trà Trái Cây"
+        },
+        {
+            "id":7,
+            "name":"Trà Xanh"
+        }
+    ]
+}
